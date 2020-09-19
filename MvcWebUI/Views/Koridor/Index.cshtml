@@ -1,0 +1,19 @@
+﻿@model HallListViewModel
+
+@{
+    ViewBag.Title = "title";
+    Layout = "_Layout";
+}
+
+<h2>Koridor List</h2>
+
+<table class ="table table-responsive">
+    @foreach (var koridor in Model.Halls)
+    {
+        <tr>
+            <td>@koridor.HallId</td>
+            <td>@koridor.HallName</td>
+        </tr>
+   }
+
+</table>

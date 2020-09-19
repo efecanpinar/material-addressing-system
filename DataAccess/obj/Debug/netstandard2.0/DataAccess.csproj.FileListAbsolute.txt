@@ -1,0 +1,28 @@
+C:\Users\model\OneDrive\Masaüstü\StokTakip\DataAccess\bin\Debug\netstandard2.0\DataAccess.deps.json
+C:\Users\model\OneDrive\Masaüstü\StokTakip\DataAccess\bin\Debug\netstandard2.0\DataAccess.dll
+C:\Users\model\OneDrive\Masaüstü\StokTakip\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\model\OneDrive\Masaüstü\StokTakip\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfo.cs
+C:\Users\model\OneDrive\Masaüstü\StokTakip\DataAccess\obj\Debug\netstandard2.0\DataAccess.csprojAssemblyReference.cache
+C:\Users\model\OneDrive\Masaüstü\StokTakip\DataAccess\bin\Debug\netstandard2.0\DataAccess.pdb
+C:\Users\model\OneDrive\Masaüstü\StokTakip\DataAccess\bin\Debug\netstandard2.0\Core.dll
+C:\Users\model\OneDrive\Masaüstü\StokTakip\DataAccess\bin\Debug\netstandard2.0\Entities.dll
+C:\Users\model\OneDrive\Masaüstü\StokTakip\DataAccess\bin\Debug\netstandard2.0\Core.pdb
+C:\Users\model\OneDrive\Masaüstü\StokTakip\DataAccess\bin\Debug\netstandard2.0\Entities.pdb
+C:\Users\model\OneDrive\Masaüstü\StokTakip\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\model\OneDrive\Masaüstü\StokTakip\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.CopyComplete
+C:\Users\model\OneDrive\Masaüstü\StokTakip\DataAccess\obj\Debug\netstandard2.0\DataAccess.dll
+C:\Users\model\OneDrive\Masaüstü\StokTakip\DataAccess\obj\Debug\netstandard2.0\DataAccess.pdb
+C:\Users\model\OneDrive\Masaüstü\Yazılım ve Ders\Kendi Çalışmalarım\StokTakip\DataAccess\bin\Debug\netstandard2.0\DataAccess.deps.json
+C:\Users\model\OneDrive\Masaüstü\Yazılım ve Ders\Kendi Çalışmalarım\StokTakip\DataAccess\bin\Debug\netstandard2.0\DataAccess.dll
+C:\Users\model\OneDrive\Masaüstü\Yazılım ve Ders\Kendi Çalışmalarım\StokTakip\DataAccess\bin\Debug\netstandard2.0\DataAccess.pdb
+C:\Users\model\OneDrive\Masaüstü\Yazılım ve Ders\Kendi Çalışmalarım\StokTakip\DataAccess\bin\Debug\netstandard2.0\Core.dll
+C:\Users\model\OneDrive\Masaüstü\Yazılım ve Ders\Kendi Çalışmalarım\StokTakip\DataAccess\bin\Debug\netstandard2.0\Entities.dll
+C:\Users\model\OneDrive\Masaüstü\Yazılım ve Ders\Kendi Çalışmalarım\StokTakip\DataAccess\bin\Debug\netstandard2.0\Core.pdb
+C:\Users\model\OneDrive\Masaüstü\Yazılım ve Ders\Kendi Çalışmalarım\StokTakip\DataAccess\bin\Debug\netstandard2.0\Entities.pdb
+C:\Users\model\OneDrive\Masaüstü\Yazılım ve Ders\Kendi Çalışmalarım\StokTakip\DataAccess\obj\Debug\netstandard2.0\DataAccess.csprojAssemblyReference.cache
+C:\Users\model\OneDrive\Masaüstü\Yazılım ve Ders\Kendi Çalışmalarım\StokTakip\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\model\OneDrive\Masaüstü\Yazılım ve Ders\Kendi Çalışmalarım\StokTakip\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\model\OneDrive\Masaüstü\Yazılım ve Ders\Kendi Çalışmalarım\StokTakip\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfo.cs
+C:\Users\model\OneDrive\Masaüstü\Yazılım ve Ders\Kendi Çalışmalarım\StokTakip\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.CopyComplete
+C:\Users\model\OneDrive\Masaüstü\Yazılım ve Ders\Kendi Çalışmalarım\StokTakip\DataAccess\obj\Debug\netstandard2.0\DataAccess.dll
+C:\Users\model\OneDrive\Masaüstü\Yazılım ve Ders\Kendi Çalışmalarım\StokTakip\DataAccess\obj\Debug\netstandard2.0\DataAccess.pdb
