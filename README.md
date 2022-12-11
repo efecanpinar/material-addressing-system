@@ -1,6 +1,6 @@
 # adresleme sistemi
 
-Fiziki nesneleri depolarda adreslemek amacıyla geliştirdiğim basit bir otomasyon projesi. Temel hiyerarşi şu adımlar üzerine kuruludur:
+Fiziki nesneleri depolarda adreslemek amacıyla geliştirdiğim otomasyon projesi. Temel hiyerarşi şu adımlar üzerine kuruludur:
 
 Depo -> Koridor -> Dolap -> Raf -> Hücre -> Nesne
 
